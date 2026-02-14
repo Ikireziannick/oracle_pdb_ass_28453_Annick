@@ -28,5 +28,11 @@ Connected successfully with SYS privileges.
 
 <img width="1339" height="760" alt="image" src="https://github.com/user-attachments/assets/19f098de-dab4-4a26-916c-b394c3e3e97e" />
 
+## Step 4 – Check Current Container
+### Command
 
+SHOW CON_NAME;
 
+### Output
+
+CDB$ROOT
