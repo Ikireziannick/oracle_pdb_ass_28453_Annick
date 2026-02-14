@@ -37,6 +37,7 @@ SHOW CON_NAME;
 CDB$ROOT
 
 <img width="1341" height="754" alt="image" src="https://github.com/user-attachments/assets/c7e3d011-107e-40c9-a4a8-70597c7eb875" />
+
 ### Explanation
 Confirmed we are inside the root container.
 
