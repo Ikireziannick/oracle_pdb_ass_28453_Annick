@@ -61,17 +61,16 @@ FILE_NAME_CONVERT = ('pdbseed', 'an_temp_28453');
 ### Open the temporary PDB
 ALTER PLUGGABLE DATABASE an_temp_28453 OPEN;
 SELECT NAME, OPEN_MODE FROM V$PDBS;
-<img width="1699" height="886" alt="image" src="https://github.com/user-attachments/assets/38fe7145-9e22-401e-bfd7-4095f03de5b0" />
-<img width="1699" height="886" alt="image" src="https://github.com/user-attachments/assets/42e09b89-68ff-4111-9937-19897a1b147a" />
 
 <img width="1699" height="886" alt="image" src="https://github.com/user-attachments/assets/3525378e-21b9-4157-91e4-027478932fd3" />
-
 
 ### Close the temporary PDB
 ALTER PLUGGABLE DATABASE an_temp_28453 CLOSE IMMEDIATE;
 
 ### Delete the temporary PDB completely
 DROP PLUGGABLE DATABASE an_temp_28453 INCLUDING DATAFILES;
+
+<img width="1702" height="897" alt="image" src="https://github.com/user-attachments/assets/abb1bc5b-0382-4165-8184-08ea69d7ad8b" />
 
 ### Confirm it no longer exists
 SELECT NAME, OPEN_MODE FROM V$PDBS;
