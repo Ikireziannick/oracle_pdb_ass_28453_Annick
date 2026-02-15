@@ -43,6 +43,7 @@ FILE_NAME_CONVERT = ('pdbseed', 'an_pdb_28453');
 <img width="1700" height="894" alt="image" src="https://github.com/user-attachments/assets/afa91cac-b28b-45a8-b0c4-aea3818b147c" />
 
 ALTER PLUGGABLE DATABASE an_pdb_28453 OPEN;
+
 ALTER PLUGGABLE DATABASE an_pdb_28453 SAVE STATE;
 ### Check OPEN state
 SHOW PDBS;
@@ -60,6 +61,7 @@ FILE_NAME_CONVERT = ('pdbseed', 'an_temp_28453');
 
 ### Open the temporary PDB
 ALTER PLUGGABLE DATABASE an_temp_28453 OPEN;
+
 SELECT NAME, OPEN_MODE FROM V$PDBS;
 
 <img width="1699" height="886" alt="image" src="https://github.com/user-attachments/assets/3525378e-21b9-4157-91e4-027478932fd3" />
@@ -74,4 +76,7 @@ DROP PLUGGABLE DATABASE an_temp_28453 INCLUDING DATAFILES;
 
 ### Confirm it no longer exists
 SELECT NAME, OPEN_MODE FROM V$PDBS;
+
+<img width="1704" height="898" alt="image" src="https://github.com/user-attachments/assets/af40e4aa-daaf-47a6-b7a8-987b9a9e05cb" />
+
 
