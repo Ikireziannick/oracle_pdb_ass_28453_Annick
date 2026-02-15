@@ -39,6 +39,7 @@ Confirmed we are inside the root container.
 CREATE PLUGGABLE DATABASE an_pdb_28453
 ADMIN USER annick_plsqlauca_28453 IDENTIFIED BY password123
 FILE_NAME_CONVERT = ('pdbseed', 'an_pdb_28453');
+
 <img width="1700" height="894" alt="image" src="https://github.com/user-attachments/assets/afa91cac-b28b-45a8-b0c4-aea3818b147c" />
 
 ALTER PLUGGABLE DATABASE an_pdb_28453 OPEN;
