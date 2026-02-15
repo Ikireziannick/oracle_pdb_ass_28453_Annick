@@ -46,6 +46,9 @@ ALTER PLUGGABLE DATABASE an_pdb_28453 OPEN;
 ALTER PLUGGABLE DATABASE an_pdb_28453 SAVE STATE;
 ### Check OPEN state
 SHOW PDBS;
+
+<img width="1699" height="887" alt="image" src="https://github.com/user-attachments/assets/949cf56d-5647-462d-b342-7051cde94281" />
+
 # Create temporary PDB
 ### sql code
 ### create temporary pdb
