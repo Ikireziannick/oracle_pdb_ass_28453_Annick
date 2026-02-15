@@ -16,7 +16,7 @@ Database services are running.
 ## Step 2 – Install SQL Developer
 ###Action
 Installed SQL Developer and opened it.
-###Result
+### Result
 Application launches correctly.
 
 <img width="1704" height="886" alt="image" src="https://github.com/user-attachments/assets/fb242118-63fe-403e-a00d-3b151f24303f" />
@@ -30,6 +30,7 @@ conn sys as sysdba
 Connected successfully with SYS privileges.
 
 <img width="1339" height="760" alt="image" src="https://github.com/user-attachments/assets/19f098de-dab4-4a26-916c-b394c3e3e97e" />
+
 
 ## Step 4 – Check Current Container
 ### Command
