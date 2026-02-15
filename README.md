@@ -9,8 +9,7 @@ Installed Oracle Database 21c successfully.
 Database services are running.
 
 <img width="1345" height="768" alt="image" src="https://github.com/user-attachments/assets/32649ebd-986e-48cb-a361-d3e266f332bc" />
-
-
+<img width="1143" height="724" alt="image" src="https://github.com/user-attachments/assets/f4119fc2-1c67-4e22-a9e4-4c19c8d6fe1b" />
 <img width="880" height="205" alt="image" src="https://github.com/user-attachments/assets/0a33a0e9-fa76-40e1-886d-86739269cdfa" />
 
 ## Step 2 – Install SQL Developer
