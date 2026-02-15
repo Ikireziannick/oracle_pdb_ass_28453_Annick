@@ -62,7 +62,8 @@ FILE_NAME_CONVERT = ('pdbseed', 'an_temp_28453');
 ALTER PLUGGABLE DATABASE an_temp_28453 OPEN;
 SELECT NAME, OPEN_MODE FROM V$PDBS;
 
-<img width="1700" height="889" alt="image" src="https://github.com/user-attachments/assets/5a0a458e-b8c2-4803-9b1b-5a7d2ec57d2a" />
+<img width="1699" height="886" alt="image" src="https://github.com/user-attachments/assets/3525378e-21b9-4157-91e4-027478932fd3" />
+
 
 ### Close the temporary PDB
 ALTER PLUGGABLE DATABASE an_temp_28453 CLOSE IMMEDIATE;
