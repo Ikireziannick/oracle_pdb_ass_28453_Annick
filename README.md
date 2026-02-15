@@ -50,18 +50,24 @@ SHOW PDBS;
 <img width="1699" height="887" alt="image" src="https://github.com/user-attachments/assets/949cf56d-5647-462d-b342-7051cde94281" />
 
 # Create temporary PDB
-### sql code
 ### create temporary pdb
+### sql code
 CREATE PLUGGABLE DATABASE an_temp_28453
 ADMIN USER annick_plsqlauca_temp_28453 IDENTIFIED BY password123
 FILE_NAME_CONVERT = ('pdbseed', 'an_temp_28453');
+
+<img width="1699" height="889" alt="image" src="https://github.com/user-attachments/assets/fe54c93c-d175-40be-8051-dd43c6348199" />
+
 ### Open the temporary PDB
 ALTER PLUGGABLE DATABASE an_temp_28453 OPEN;
 SELECT NAME, OPEN_MODE FROM V$PDBS;
+
 ### Close the temporary PDB
 ALTER PLUGGABLE DATABASE an_temp_28453 CLOSE IMMEDIATE;
+
 ### Delete the temporary PDB completely
 DROP PLUGGABLE DATABASE an_temp_28453 INCLUDING DATAFILES;
+
 ### Confirm it no longer exists
 SELECT NAME, OPEN_MODE FROM V$PDBS;
 
