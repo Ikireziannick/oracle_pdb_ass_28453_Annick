@@ -2,7 +2,10 @@
 ## STEP 1: INSTALL ORACLE DATABASE
 ### Action
 Installed Oracle Database 21c successfully.
-###Result
+### Result
+
+<img width="1161" height="883" alt="image" src="https://github.com/user-attachments/assets/b5333c55-ce33-46c7-b49d-42f482f0cc40" />
+
 Database services are running.
 
 <img width="1345" height="768" alt="image" src="https://github.com/user-attachments/assets/32649ebd-986e-48cb-a361-d3e266f332bc" />
