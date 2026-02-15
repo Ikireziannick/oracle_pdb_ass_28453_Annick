@@ -8,8 +8,8 @@ Installed Oracle Database 21c successfully.
 
 Database services are running.
 <img width="880" height="205" alt="image" src="https://github.com/user-attachments/assets/0a33a0e9-fa76-40e1-886d-86739269cdfa" />
-<img width="1345" height="768" alt="image" src="https://github.com/user-attachments/assets/32649ebd-986e-48cb-a361-d3e266f332bc" />
 
+<img width="1345" height="768" alt="image" src="https://github.com/user-attachments/assets/32649ebd-986e-48cb-a361-d3e266f332bc" />
 
 ## Step 2 – Install SQL Developer
 ### Action
@@ -20,9 +20,11 @@ Application launches correctly.
 <img width="1704" height="886" alt="image" src="https://github.com/user-attachments/assets/fb242118-63fe-403e-a00d-3b151f24303f" />
 
 ## Step 3 – Creating connection
+
 <img width="1143" height="724" alt="image" src="https://github.com/user-attachments/assets/8a532454-be94-4672-814b-3778c8e06e50" />
 
 ## Step 4 – Check Current Container
+
 ### Command
 
 SHOW CON_NAME;
