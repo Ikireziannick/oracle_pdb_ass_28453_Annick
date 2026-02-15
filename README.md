@@ -7,7 +7,7 @@ Installed Oracle Database 21c successfully.
 <img width="1161" height="883" alt="image" src="https://github.com/user-attachments/assets/b5333c55-ce33-46c7-b49d-42f482f0cc40" />
 
 Database services are running.
-
+<img width="880" height="205" alt="image" src="https://github.com/user-attachments/assets/0a33a0e9-fa76-40e1-886d-86739269cdfa" />
 <img width="1345" height="768" alt="image" src="https://github.com/user-attachments/assets/32649ebd-986e-48cb-a361-d3e266f332bc" />
 
 
@@ -21,7 +21,7 @@ Application launches correctly.
 
 ## Step 3 – Creating connection
 <img width="1143" height="724" alt="image" src="https://github.com/user-attachments/assets/8a532454-be94-4672-814b-3778c8e06e50" />
-<img width="880" height="205" alt="image" src="https://github.com/user-attachments/assets/0a33a0e9-fa76-40e1-886d-86739269cdfa" />
+
 ## Step 4 – Check Current Container
 ### Command
 
