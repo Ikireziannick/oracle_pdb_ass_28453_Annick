@@ -56,7 +56,7 @@ CREATE PLUGGABLE DATABASE an_temp_28453
 ADMIN USER annick_plsqlauca_temp_28453 IDENTIFIED BY password123
 FILE_NAME_CONVERT = ('pdbseed', 'an_temp_28453');
 
-<img width="1699" height="889" alt="image" src="https://github.com/user-attachments/assets/fe54c93c-d175-40be-8051-dd43c6348199" />
+<img width="1699" height="889" alt="image" src="https://github.com/user-attachments/assets/217e8edd-8625-4787-9478-bb2504c2f5b7" />
 
 ### Open the temporary PDB
 ALTER PLUGGABLE DATABASE an_temp_28453 OPEN;
