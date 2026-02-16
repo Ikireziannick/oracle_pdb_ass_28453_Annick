@@ -86,8 +86,8 @@ SELECT NAME, OPEN_MODE FROM V$PDBS;
 Configure and access Oracle Enterprise Manager (OEM)
 
 ## OEM dashboard
+<img width="1903" height="825" alt="image" src="https://github.com/user-attachments/assets/78672c52-869f-4b1e-9843-e5180a111f8a" />
 
-<img width="1903" height="825" alt="image" src="https://github.com/user-attachments/assets/0f4c77dc-1fe3-4686-94a8-262a197e1456" />
 
 
 
