@@ -18,8 +18,6 @@ Installed SQL Developer and opened it.
 Application launches correctly.
 
 <img width="1704" height="886" alt="image" src="https://github.com/user-attachments/assets/fb242118-63fe-403e-a00d-3b151f24303f" />
-<img width="1903" height="826" alt="image" src="https://github.com/user-attachments/assets/844d8c51-8216-4e6b-b507-7bfab90de3b6" />
-
 
 ## Step 3 – Creating connection
 
